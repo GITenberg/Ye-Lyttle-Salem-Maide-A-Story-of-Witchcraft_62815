@@ -1,0 +1,42 @@
+_repo: Ye-Lyttle-Salem-Maide-A-Story-of-Witchcraft_62815
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hamilton, Edward W.
+    aliases:
+    - Hamilton, E. W. (Edward W.)
+    - Hamilton, E. W. D.
+    - Hamilton, Edward W. D. (Edward Wilbur Dean)
+    birthdate: 1862
+    deathdate: 1943
+    gutenberg_agent_id: '52140'
+    url: http://www.gutenberg.org/2009/agents/52140
+creator:
+  author:
+    agent_name: Mackie, Pauline Bradford
+    aliases:
+    - Hopkins, Mrs. Herbert Muller
+    - Hopkins, Pauline Bradford Mackie
+    - Hopkins, Mrs. Herbert Müller
+    birthdate: 1873
+    deathdate: 1956
+    gutenberg_agent_id: '52139'
+    url: http://www.gutenberg.org/2009/agents/52139
+    wikipedia: https://en.wikipedia.org/wiki/Pauline_Bradford_Mackie
+description: ''
+gutenberg_issued: '2020-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62815'
+  lccn: c98000162
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Trials (Witchcraft) -- Fiction'
+- !lcsh 'Salem (Mass.) -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+- GITenberg
+title: 'Ye Lyttle Salem Maide: A Story of Witchcraft'
+url: http://www.gutenberg.org/ebooks/62815
